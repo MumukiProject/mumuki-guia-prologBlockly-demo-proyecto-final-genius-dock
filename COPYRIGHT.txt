@@ -1,0 +1,5 @@
+Copyright Agustin Pina, Federico Romero, Gustavo Trucco, Alejandro De Bonis, Alejandra Levy and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumukiproject/mumuki-guia-prologBlockly-demo-proyecto-final-genius-dock and the AUTHORS.txt file.
