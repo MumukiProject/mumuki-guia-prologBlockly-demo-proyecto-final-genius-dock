@@ -1,2 +1,8 @@
-test(test_description_example):-
-	aPredicate(anIndividual).
+test('jorge es padre') :-
+   esPadre(jorge).
+   
+test('eduardo es padre') :-
+   esPadre(eduardo).
+   
+test('ernesto es padre') :-
+   esPadre(ernesto).
