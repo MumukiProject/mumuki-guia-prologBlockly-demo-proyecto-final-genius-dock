@@ -1,0 +1,1 @@
+Hasta ahora solo vimos bloques que me dicen cosas sobre un sólo individuo. Ahora vamos a ver como relacionamos más de uno. Mirá los bloques y luego tocá **Enviar** para continuar :wink:.
