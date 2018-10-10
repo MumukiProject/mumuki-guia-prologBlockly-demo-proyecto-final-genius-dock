@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="fact1" id=")r6CQH}xAYa1th,!1ta~" x="34" y="24"><field name="Nombre">esMadre</field><value name="PrimerIndividuo"><block type="IndividuoSelector" id="L^52jan?PDcXn}IVXmiY"><field name="Individuo">gabriela</field></block></value></block></xml>
