@@ -3,7 +3,7 @@ name: Demo proyecto final Genius Dock
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: prologBlockly
 id_format: "%05d"
 order: []
