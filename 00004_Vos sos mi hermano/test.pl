@@ -1,2 +1,2 @@
-test(test_description_example):-
-	aPredicate(anIndividual).
+test('gustavo es hermano de pablo') :-
+   sonHermanos(gustavo, pablo).

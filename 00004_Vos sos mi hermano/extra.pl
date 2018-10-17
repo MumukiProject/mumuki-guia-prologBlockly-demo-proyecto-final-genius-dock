@@ -1,1 +1,1 @@
-<xml></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables><variable type="" id="_^83CU:yFYb$!]ST-Y}2">Alguien</variable><variable type="" id="s.:KyXu%*vSOaPg7yM$j">OtraPersona</variable></variables></xml>
