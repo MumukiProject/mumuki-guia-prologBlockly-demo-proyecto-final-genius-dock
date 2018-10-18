@@ -1,0 +1,1 @@
+<xml xmlns="http://www.w3.org/1999/xhtml"><variables></variables><block type="fact1" id="m;r]08mBcL:AR_z.w{r?" x="123" y="36"><field name="Nombre">bloqueDePrueba</field><value name="PrimerIndividuo"><block type="IndividuoSelector" id="eimgI3CLnxBr(4KtV7d="><field name="Individuo">hola</field></block></value></block></xml>
