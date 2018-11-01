@@ -1,0 +1,26 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: esAbueloDe es un bloque verdad
+  checked: false
+- value: esAbueloDe es un bloque de condición
+  checked: true
+- value: Persona y OtraPersona son bloques individuo
+  checked: false
+- value: Persona y OtraPersona son bloques variable
+  checked: true
+- value: esHijoDe es un bloque verdad
+  checked: true
+- value: esHijoDe es un bloque de condición
+  checked: false
+- value: felipe es un bloque individuo
+  checked: true
+- value: felipe es un bloque variable
+  checked: false
+name: Hagamos un repaso
