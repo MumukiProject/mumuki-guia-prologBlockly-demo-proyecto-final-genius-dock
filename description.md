@@ -1,1 +1,1 @@
-¿Alguna vez te pasó que quisiste hacer tu árbol genealógico? Vamos a ayudarte a partir del maravilloso mundo de los bloques. Acompañanos.  
+¿Alguna vez te pasó que quisiste armar tu árbol genealógico? Vamos a ayudarte a partir del maravilloso mundo de los bloques. Acompañanos.  
