@@ -1,1 +1,1 @@
-En este ejercicio te va a servir más el bloque `esHijoDe` que los bloque `madre` o `padre`.
+En este ejercicio te va a servir más el bloque `esHijoDe` que los bloque `esMadre` o `esPadre`.
