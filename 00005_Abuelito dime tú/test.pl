@@ -1,5 +1,5 @@
 test('gustavo es nieto de elena') :-
-   esAbueloDe(elena, gustavo).
+   esNietoDe(gustavo, elena).
    
 test('agustin es nieto de aida') :-
-   esAbueloDe(aida, agustin).
+   esNietoDe(agustin, aida).

@@ -19,8 +19,8 @@ choices:
   checked: true
 - value: esHijoDe es un bloque de condición
   checked: false
-- value: felipe es un bloque individuo
+- value: elena es un bloque individuo
   checked: true
-- value: felipe es un bloque variable
+- value: elena es un bloque variable
   checked: false
 name: Hagamos un repaso
