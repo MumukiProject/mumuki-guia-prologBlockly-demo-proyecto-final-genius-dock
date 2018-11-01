@@ -1,1 +1,1 @@
-Un buen nombre para estos bloques, es `esPadre`.
+Los distintos tipos de bloques que necesitas podés verlos en el menú de la izquierda. Allí selecciona el bloque **verdad** con un hueco, y arrastralo hacía nuestro espacio de bloques. Para individuos, arrastrá el bloque **individuo** y poné los nombres en minúscula.

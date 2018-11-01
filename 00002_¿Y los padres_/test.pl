@@ -6,3 +6,7 @@ test('eduardo es padre') :-
    
 test('ernesto es padre') :-
    esPadre(ernesto).
+
+test('pablo es padre') :-
+   esPadre(pablo).
+   
