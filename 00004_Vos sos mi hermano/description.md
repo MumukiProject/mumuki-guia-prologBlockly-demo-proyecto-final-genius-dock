@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="http://162.243.62.18:3001/assets/editor/soloVerdades.xml"></gs-toolbox>
+<pl-toolbox toolbox-url="http://162.243.62.18:3001/assets/editor/soloVerdades.xml"></pl-toolbox>
 
 ¿Qué son las condiciones? Son bloques que, a diferencia de las verdades que son siempre verdaderas :stuck_out_tongue_winking_eye:, dependen de otros bloques para ser verdad. 
 
