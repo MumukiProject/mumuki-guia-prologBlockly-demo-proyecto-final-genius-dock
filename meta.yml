@@ -1,5 +1,5 @@
 ---
-name: Creando un árbol genealógico
+name: Mmmm depende...
 locale: es
 type: learning
 beta: false
@@ -7,9 +7,6 @@ teacher_info: ''
 language: prologBlockly
 id_format: "%05d"
 order:
-- 6
-- 2
-- 3
 - 4
 - 5
 - 7
