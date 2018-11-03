@@ -1,1 +1,3 @@
-¿Alguna vez te pasó que quisiste armar tu árbol genealógico? Vamos a ayudarte a partir del maravilloso mundo de los bloques. Acompañanos.  
+Muy lindo todo esto de los bloques, pero hasta ahora todo es muy simple. Vamos a ver bloques un poco más complejos.
+
+Ya vimos los bloques utilizados para declarar verdades. Ahora vamos a declarar condiciones a través de los bloques _**Condicion**_.
