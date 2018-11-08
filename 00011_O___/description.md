@@ -10,6 +10,6 @@ Para poder representarlo en bloques simplemente se hace lo siguiente:
 
 - creas un bloque con una de las condiciones. Por ejemplo: `esMadre`;
 - creas otro bloque con el mismo nombre con la otra condición. Por ejemplo: `esPadre`;
-- el segundo bloque que crees con el mismo nombre que uno ya existente se renombrará automáticamente agregando un "2" al final del nombre :sunglasses:.
+- el segundo bloque que crees con el mismo nombre que uno ya existente se renombrará automáticamente agregando un "2" al final del nombre :sunglasses:. Por ejemplo: `tieneHijos2`.
 
 El resultado es que la condición será verdadera si se cumple lo que está dentro de alguno de sus bloques. 
