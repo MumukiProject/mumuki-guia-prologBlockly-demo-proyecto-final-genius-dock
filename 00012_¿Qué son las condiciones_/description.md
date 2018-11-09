@@ -10,4 +10,4 @@ Vamos a ver como se puede representar esto que te contamos en bloques:
 
 El bloque `esAve` es un bloque **_condicion_**. Dentro de él están los bloques necesarios para que la condición se cumpla, en este caso `tieneAlas`. También podrás ver al lado del nombre cuales son las variables asociadas a la condición, `unAnimal`.
 
-El bloque `unAnimal` es un bloque **_variable_**. El nombre del bloque variable que deberás utilizar podés verlo al lado del nombre del bloque _condicion_
+El bloque `unAnimal` es un bloque **_variable_**. El nombre del bloque _variable_ que deberás utilizar es el mismo que viste al lado del nombre del bloque _condicion_.
