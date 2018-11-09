@@ -11,9 +11,9 @@ choices:
   checked: false
 - value: esAbueloDe es un bloque de condición
   checked: true
-- value: Persona y OtraPersona son bloques individuo
+- value: PadreOMadre, AbueloOAbuela y NietoONieta son bloques individuo
   checked: false
-- value: Persona y OtraPersona son bloques variable
+- value: PadreOMadre, AbueloOAbuela y NietoONieta son bloques variable
   checked: true
 - value: esHijoDe es un bloque verdad
   checked: true
