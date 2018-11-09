@@ -1,3 +1,8 @@
-¡Vamos a formalizar algunas cosas que quizás ya notaste!
+Vamos a ver si se entendieron los bloques presentes en este ejercicio:
 
-A diferencia de los ejercicios anteriores, en este no hablamos de individuos puntuales, sino de una persona cualquiera relacionada con otra persona cualquiera. Estas personas son lo que llamamos _variables_ ya que pueden ser cualquier persona.
+* `esHijoDe` son bloques _verdad_;
+* `Gustavo`, `Pablo` y `Jorge` son bloques _individuo;
+* `sonHermanos` es un bloque _condicion_;
+* `UnaPersona`, `OtraPersona` y `PadreOMadre` son bloques _variable_.
+
+¡Continuemos!
