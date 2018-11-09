@@ -4,6 +4,7 @@ layout: input_bottom
 editor: code
 type: reading
 extra_visible: false
+language: text
 manual_evaluation: false
 choices: []
 name: "¿Qué son las condiciones?"
